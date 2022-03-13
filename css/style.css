@@ -1,0 +1,205 @@
+/* top-div */
+.backcolor{
+    background-color:#e712ae;
+    width: 100%;
+    height: 600px;
+    margin-top: 60px;
+    margin: auto;
+    border-radius: 30px;
+    text-align: center;
+}
+.backcolor p{
+    
+   font-size: 60px;
+   padding-top: 190px;
+   
+}
+.backcolor h3{
+    color: #fff;
+    margin-top: 70px;
+    font-size: 30px;
+   
+}
+/* 2-div */
+.backcolor2{
+    background-color: rgb(17, 177, 226);
+    width: 100%;
+    height: 600px;
+    border-radius: 30px;
+    margin: auto;
+    align-items: center;
+  
+}
+.about{
+   font-size: 30px;
+   margin-left: 150px;
+   color: #fff;
+} 
+.logo{
+    width: 90px;
+    height: 70px;
+    margin-top: 200px;
+    margin-left: 190px; 
+}
+.deatils{
+    color: white;
+	padding-left: 150px;
+	margin-top:-150px;
+}
+.deatils1{
+    color: white;
+	padding-left: 150px;
+	margin-top:190px;
+}
+/* nav-bar */
+.main menu{
+    background-color: white;
+ 	width: 10px;
+ 	}
+ul{
+    float: right;
+    list-style: none;
+    margin-top: 40px;
+}
+ul li{
+   list-style :none;
+   display: inline-block;
+   padding: 10px;
+   font-size: 15px;   
+}
+a{
+    text-decoration: none; 
+}
+ul li :hover{
+    color: pink;
+}
+/* picture */
+img{
+    width: 270px;
+	height: 220px;
+	border-radius: 20px;
+
+}
+table{
+    margin: auto;
+}
+/* footer */
+.footer{
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(153, 217, 234);
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 20px;
+    position: relative;
+}
+.name{
+   position: absolute;
+   top: 50px;
+   left: 50px;
+   color: #fff;
+
+}
+.name1{
+     
+    position:absolute;
+    top:90px ;
+    left:50px ;
+    width: 30%;
+    background-color: rgb(153, 217, 234);
+    color: rgb(255, 255, 255);
+    border-bottom-style:groove;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(255, 255, 255)
+    
+
+    
+}
+.email{
+    position: relative;
+    top: 160px;
+    left: 50px;
+    color: #fff;
+}
+.email1{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    width: 30%;
+    background-color: rgb(153, 217, 234);
+    color: rgb(255, 255, 255);
+    border-bottom-style:groove;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(255, 255, 255)
+}
+.message{
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    color: #fff;
+}
+.message1{
+    position: absolute;
+    top: 290px;
+    left: 50px;
+    width: 30%;
+    background-color: rgb(153, 217, 234);
+    color: rgb(255, 255, 255);
+    border-bottom-style:groove;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(255, 255, 255)
+    
+}
+.send{
+    position: absolute;
+    top: 450px;
+    left: 310px;
+    background-color: rgb(153, 217, 234);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border-width: 0 0 0px;  
+}
+.para1{
+    position: absolute;
+    top: 70px;
+    left: 400px;
+    color: #fff;
+    line-height: 50px;
+}
+.para2{
+    position: absolute;
+    top: 290px;
+    left: 400px;
+    color: #fff;
+
+}
+.img1{
+    width: 130px;
+    height: 90px;
+    position: absolute;
+    top: 360px;
+    left: 400px;
+}
+.contact{
+    color: #fff;
+    position: absolute;
+    top: 250px;
+    left: 800px;
+}
+.contactlogo{
+    position: absolute;
+    top:150px ;
+    left:780px ;
+    width: 100px;
+    height: 90px;
+}
+.end{
+    color: blueviolet;
+    font-size: 15px;
+    text-align: center;
+}
+
+
